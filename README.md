@@ -7,4 +7,4 @@ This repository contains the coding examples from the tutorial **Python for Data
 
 [Getting Started with pandas](https://github.com/lxn1021/Python-Basics/blob/master/Pandas.ipynb)
 
-[Data Wrangling: Clean, Transform, Merge, Reshape]()
+[Data Wrangling: Clean, Transform, Merge, Reshape](https://github.com/lxn1021/Python-Basics/blob/master/Data%20Wrangling.ipynb)
