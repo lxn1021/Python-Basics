@@ -14,3 +14,5 @@ This repository contains the coding examples from the tutorial **Python for Data
 [Python Basics](https://github.com/lxn1021/Python-Basics/blob/master/Python%20Basics.ipynb)
 
 [Lists](https://github.com/lxn1021/Python-Basics/blob/master/Lists.ipynb)
+
+[Dictionaries and Structuring Data](https://github.com/lxn1021/Python-Basics/blob/master/Dicts%20and%20Structuring%20Data.ipynb)
