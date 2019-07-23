@@ -11,4 +11,4 @@ This repository contains the coding examples from the tutorial **Python for Data
 
 [Data Aggregation and Group Operations](https://github.com/lxn1021/Python-Basics/blob/master/Data%20Aggregation%20and%20Grouping.ipynb)
 
-[Python Basics]()
+[Python Basics](https://github.com/lxn1021/Python-Basics/blob/master/Python%20Basics.ipynbhttps://github.com/lxn1021/Python-Basics/blob/master/Python%20Basics.ipynb)
