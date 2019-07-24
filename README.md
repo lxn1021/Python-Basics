@@ -20,3 +20,5 @@ This repository contains the coding examples from the tutorial **Python for Data
 [Manipulating Strings](https://github.com/lxn1021/Python-Basics/blob/master/Manipulating%20Strings.ipynb)
 
 [Organizing Files](https://github.com/lxn1021/Python-Basics/blob/master/Organizing%20Files.ipynb)
+
+[Working with Excel Spreadsheet](https://github.com/lxn1021/Python-Basics/blob/master/Working%20with%20Excel.ipynb)
