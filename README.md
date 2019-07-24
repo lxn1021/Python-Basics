@@ -26,3 +26,5 @@ This repository contains the coding examples from the tutorial **Python for Data
 [Working with PDF and Word Documents](https://github.com/lxn1021/Python-Basics/blob/master/Working%20with%20PDF%20and%20WORD.ipynb)
 
 [Working with CSV Files and JSON Data](https://github.com/lxn1021/Python-Basics/blob/master/Working%20with%20CSV%20and%20JSON.ipynb)
+
+[Time](https://github.com/lxn1021/Python-Basics/blob/master/Time.ipynb)
